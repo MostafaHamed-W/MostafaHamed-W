@@ -20,11 +20,12 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mostafa-hamed-w" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mostafa-hamed-w" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Hamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/xwafy" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Dergham-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.telegram.com/xwafy" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Dergham-0077B5?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Flutter](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=flutter)&nbsp;
+![Dart](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=dart&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
