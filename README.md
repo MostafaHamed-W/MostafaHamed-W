@@ -14,7 +14,7 @@
 - 🏢 I'm a Software Engineer and Mobile Application Developer at Tanta Umis
 - 👨‍💻 As a Software Engineer, I'm constantly exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Mobile Application Development
-- 📱Flutter and iOS Native , or anything related to Mobile development.
+- 📱Flutter and Native iOS , or anything related to Mobile development.
 <!-- - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
 
