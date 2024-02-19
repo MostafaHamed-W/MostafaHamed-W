@@ -26,6 +26,7 @@
 ### 🛠 &nbsp;Tech Stack
 ![Flutter](https://img.shields.io/badge/-FLUTTER-05122A?style=flat&logo=flutter)&nbsp;
 ![Dart](https://img.shields.io/badge/-DART-05122A?style=flat&logo=dart&logoColor=563D7C)&nbsp;
+![Riverpod](https://img.shields.io/badge/-Riverpod-05122A?style=flat&logo=riverpod)&nbsp;
 ![Bloc](https://img.shields.io/badge/-BLOC-05122A?style=flat&logo=bloc)&nbsp;
 ![Provider](https://img.shields.io/badge/-Provier-05122A?style=flat&logo=provider&logoColor=1572B6)&nbsp;
 ![GetX](https://img.shields.io/badge/-GetX-05122A?style=flat&logo=getx)
