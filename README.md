@@ -38,7 +38,8 @@
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
 ![Api](https://img.shields.io/badge/-Api-05122A?style=flat&logo=api)&nbsp;
 ![Json](https://img.shields.io/badge/-Json%20-05122A?style=flat&logo=json)&nbsp;
-
+![GoRouter](https://img.shields.io/badge/-GoRouter%20-05122A?style=flat&logo=gorouter)&nbsp;
+![RxDart](https://img.shields.io/badge/-RxDart%20-05122A?style=flat&logo=rxdart)&nbsp;
 
 
 
