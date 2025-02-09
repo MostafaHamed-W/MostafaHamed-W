@@ -4,8 +4,8 @@
 
 ---
 
-<h1 align="">Hi, I'm Mostafa Hamed</h1>
-<h3 align="">Software Engineer | Mobile Application Developer</h3>
+<h3 align="">Hi, I'm Mostafa Hamed</h3>
+<h4 align="">Software Engineer | Mobile Application Developer</h4>
 <h4 align="">Passionate about crafting robust and user-friendly mobile apps.</h4>
 <pr>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
