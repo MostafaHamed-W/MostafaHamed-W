@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Mostafa Hamed</h1>
+<h1 align="center">Hi, I'm Mostafa Hamed</h1>
 <h3 align="center">Software Engineer | Mobile Application Developer</h3>
 <h4 align="center">Passionate about crafting robust and user-friendly mobile apps.</h4>
 <pr>
@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/mostafa-hamed-w/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="xwafy" /></a> </p>
 
-- 🔭 I’m currently working on [Odex SS](https://apps.apple.com/kw/app/odex-ss/id1578454305)
+- 🔭 I’m currently working on [Expert CO.LTD](https://exp-sa.com)
 
 - 👨‍💻 I’m currently learning **Mobile Development**
 
