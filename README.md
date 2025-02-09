@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/mostafa-hamed-w">
-    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=50&pause=1000&color=000000&background==ffffff&center=true&vCenter=true&width=1200&height=300&lines=%3C+%F0%9F%91%8B+Hello%2C+World!+%2F%3E;Nice+to+see+you+%F0%9F%98%8E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=50&pause=1000&color=70a5fd&background==1a1b27&center=true&vCenter=true&width=1200&height=300&lines=%3C+%F0%9F%91%8B+Hello%2C+World!+%2F%3E;Nice+to+see+you+%F0%9F%98%8E" alt="Typing SVG" />
 </a>
 
 ---
