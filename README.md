@@ -12,7 +12,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafahamed-w&label=Profile%20views&color=0e75b6&style=flat" alt="mostafahamed-w" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/mostafa-hamed-w/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="xwafy" /></a> </p>
+<p align="left">
+<a href="https://mostafahamed-w.github.io/flutter_web_portfolio/" target="blank"><img src="https://img.shields.io/badge/Portfolio-27384a?style=for-the-badge&logo=linkedin&logoColor=white" alt="xwafy" /></a>$~$
+ <a href="https://www.linkedin.com/in/mostafa-hamed-w/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="xwafy" /></a>   
+</p>
 
 - 🔭 I’m currently working on [Expert CO.LTD](https://exp-sa.com)
 
