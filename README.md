@@ -4,9 +4,9 @@
 
 ---
 
-<h4 align="">Hi, I'm Mostafa Hamed</h4>
-<h5 align="">Software Engineer | Mobile Application Developer from Egypt 🇪🇬.</h5>
-<h5 align="">Passionate about crafting robust and user-friendly mobile apps.</h5>
+**Hi, I'm Mostafa Hamed**  
+Software Engineer | Mobile Application Developer from Egypt 🇪🇬.  
+Passionate about crafting robust and user-friendly mobile apps.
 
 <pr>
     
