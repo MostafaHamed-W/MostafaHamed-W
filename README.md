@@ -7,14 +7,11 @@
 **Hi, I'm Mostafa Hamed**  
 Software Engineer | Mobile Application Developer from Egypt 🇪🇬.  
 Passionate about crafting robust and user-friendly mobile apps.
-
-<pr>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafahamed-w&label=Profile%20views&color=0e75b6&style=flat" alt="mostafahamed-w" /> </p>
 <p align="left">
 <a href="https://mostafa-hamed.web.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-27384a?style=for-the-badge&logo=linkedin&logoColor=white" alt="xwafy" /></a>$~$
  <a href="https://www.linkedin.com/in/mostafa-hamed-w/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="xwafy" /></a>   
-</p>
 
 - 🔭 Currently working at **[Expert Co. Ltd](https://exp-sa.com)**, building mobile solutions for business applications.
 - 👨‍💻 Passionate about **Flutter,Mobile development, and Software Architecture**.
