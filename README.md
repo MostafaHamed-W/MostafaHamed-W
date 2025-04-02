@@ -15,10 +15,10 @@ Passionate about crafting robust and user-friendly mobile apps.
 
 - 🔭 Currently working at **[Expert Co. Ltd](https://exp-sa.com)**, building mobile solutions for business applications.
 - 👨‍💻 Passionate about **Flutter,Mobile development, and Software Architecture**.
-- 🔎 Always exploring **new technologies and best practices** to enhance development efficiency
-- 💬 Ask me about **Flutter, iOS, Android**
-- ☕ Fun fact **A day without coffee feels incomplete!**
-- 📫 How to reach me **mostafa.hamed.w@gmail.com**
+- 🔎 Always exploring **new technologies and best practices** to enhance development efficiency.
+- 💬 Ask me about **Flutter, iOS, Android**.
+- ☕ Fun fact **A day without coffee feels incomplete!**.
+- 📫 How to reach me **mostafa.hamed.w@gmail.com**.
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
