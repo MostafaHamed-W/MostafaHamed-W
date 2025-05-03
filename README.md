@@ -10,7 +10,7 @@ Passionate about crafting robust and user-friendly mobile apps.
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafahamed-w&label=Profile%20views&color=0e75b6&style=flat" alt="mostafahamed-w" /> </p>
 <p align="left">
-<a href="https://mostafa-hamed.web.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-27384a?style=for-the-badge&logo=linkedin&logoColor=white" alt="xwafy" /></a>$~$
+</a>
  <a href="https://www.linkedin.com/in/mostafa-hamed-w/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="xwafy" /></a>   
 
 - 🔭 Currently working at **[Expert Co. Ltd](https://exp-sa.com)**, building mobile solutions for business applications.
